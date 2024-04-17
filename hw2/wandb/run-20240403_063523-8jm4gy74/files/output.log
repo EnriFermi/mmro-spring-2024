@@ -1,0 +1,23 @@
+  0%|                                           | 1/937 [00:01<16:33,  1.06s/it]
+  0%|                                                     | 0/1 [00:01<?, ?it/s]
+tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]], device='mps:0')
+tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]], device='mps:0') tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2.2966, device='mps:0', grad_fn=<NllLossBackward0>)

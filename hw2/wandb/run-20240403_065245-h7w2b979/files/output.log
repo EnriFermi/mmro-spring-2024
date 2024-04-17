@@ -1,0 +1,811 @@
+  0%|                                                     | 0/1 [00:00<?, ?it/s]
+  4%|█▌                                        | 36/937 [00:01<00:28, 31.88it/s]
+tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]], device='mps:0')
+tensor(2.2966, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(4.2593, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(4.4240, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(8.4603, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(10.5373, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(16.5382, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(25.8852, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(41.2389, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(60.3110, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(91.3904, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(93.0544, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(127.8473, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(129.6256, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(96.2525, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(233.2542, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(156.9229, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(196.5302, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(282.8208, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(302.7897, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(340.8835, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(409.2371, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(348.1794, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(386.6018, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(570.0405, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(717.9050, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(635.5837, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(746.4144, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(896.5497, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(473.4067, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(874.9978, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(695.0596, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(925.9928, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1233.9135, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1329.6858, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1029.8075, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1479.8398, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1181.3213, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1080.9717, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1393.2871, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1617.4287, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1815.2408, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1791.9832, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+
+  9%|███▋                                      | 82/937 [00:03<00:28, 29.62it/s]
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2254.3267, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2122.5029, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1847.4886, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2814.1160, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2208.8081, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1907.8901, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2196.2500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3883.5430, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2602.4912, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3346.4224, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2990.8359, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3126.4558, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2390.1914, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2680.7844, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3958.5850, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3149.8123, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2998.2017, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3911.3198, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(4265.1992, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(5280.2964, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2123.7996, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]], device='mps:0')
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(4475.8188, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(5995.6445, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(14298.7188, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(44814.4375, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(49357.3750, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(72253.0859, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(125125.5078, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(168793.5781, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(325758.3125, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(248872.9219, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(193667.2188, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(714210.7500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(646827.5000, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(742084.9375, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(612680.5000, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(754018.2500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(974825.3750, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1528650.1250, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1114348.2500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1241274.3750, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1721865.7500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2598044., device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2353909.5000, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2244162.5000, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2830719.7500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+
+100%|█████████████████████████████████████████████| 1/1 [00:04<00:00,  4.93s/it]
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2504498.2500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2281489.2500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(2557197.5000, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3580030., device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3225896., device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(1691121.6250, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3558382.5000, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(5243089., device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(3986734.2500, device='mps:0', grad_fn=<NllLossBackward0>)
+tensor([[True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        ...,
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True],
+        [True, True, True,  ..., True, True, True]], device='mps:0')
+tensor(6942770., device='mps:0', grad_fn=<NllLossBackward0>)

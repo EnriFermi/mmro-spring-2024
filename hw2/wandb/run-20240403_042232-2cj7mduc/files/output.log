@@ -1,0 +1,304 @@
+
+  0%|                                                     | 0/2 [00:00<?, ?it/s]
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.334428310394287
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+3.121216058731079
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.081461191177368
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.254581928253174
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.2587904930114746
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.220860004425049
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.226733684539795
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.158522605895996
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.093167781829834
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.1035501956939697
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.0858826637268066
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.0923924446105957
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.0647006034851074
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.050675392150879
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.0121915340423584
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+2.0210657119750977
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.9750949144363403
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.9621131420135498
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.9524040222167969
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.8602806329727173
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.901718258857727
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.8818159103393555
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.8552312850952148
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.886322259902954
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.831355094909668
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.8178342580795288
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.7458938360214233
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.7825729846954346
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.752938985824585
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.726008415222168
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.7299028635025024
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.6922277212142944
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.6707514524459839
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.7084360122680664
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.6725399494171143
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.7031108140945435
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.6848504543304443
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.656618356704712
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.7022314071655273
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.604680061340332
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.63248610496521
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.615521788597107
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.599358320236206
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5966718196868896
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.6032671928405762
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5466036796569824
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5597689151763916
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5301790237426758
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.566394329071045
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5836570262908936
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5640472173690796
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5736522674560547
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5927913188934326
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5085011720657349
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+
+ 50%|██████████████████████▌                      | 1/2 [00:06<00:06,  6.86s/it]
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.557976484298706
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.509828805923462
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5072999000549316
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.514894962310791
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.521347165107727
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4946484565734863
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4693052768707275
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.5086495876312256
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4450197219848633
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4802669286727905
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4804160594940186
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4861221313476562
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4563755989074707
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.456336259841919
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.451608419418335
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4228174686431885
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4325896501541138
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4506077766418457
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4066075086593628
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4542181491851807
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.453354835510254
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.415093183517456
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4907023906707764
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4303598403930664
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4244277477264404
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4291050434112549
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4191279411315918
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.3980522155761719
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.40911865234375
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.3879835605621338
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.3619015216827393
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.3842297792434692
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.460044264793396
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.362343430519104
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.3919038772583008
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4052412509918213
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.446642518043518
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.395535945892334
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4099175930023193
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4122917652130127
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.4473934173583984
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.425119400024414
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.3999834060668945
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+1.3753786087036133
+<class 'torch.Tensor'>
+<class 'torch.Tensor'>
+
+100%|█████████████████████████████████████████████| 2/2 [00:10<00:00,  5.03s/it]

@@ -1,0 +1,204 @@
+
+  0%|                                                     | 0/2 [00:00<?, ?it/s]
+tensor(2.3344, device='mps:0', grad_fn=<NllLossBackward0>)
+2.334428310394287
+tensor(3.1212, device='mps:0', grad_fn=<NllLossBackward0>)
+3.121216058731079
+tensor(2.0815, device='mps:0', grad_fn=<NllLossBackward0>)
+2.081461191177368
+tensor(2.2546, device='mps:0', grad_fn=<NllLossBackward0>)
+2.254581928253174
+tensor(2.2588, device='mps:0', grad_fn=<NllLossBackward0>)
+2.2587904930114746
+tensor(2.2209, device='mps:0', grad_fn=<NllLossBackward0>)
+2.220860004425049
+tensor(2.2267, device='mps:0', grad_fn=<NllLossBackward0>)
+2.226733684539795
+tensor(2.1585, device='mps:0', grad_fn=<NllLossBackward0>)
+2.158522605895996
+tensor(2.0932, device='mps:0', grad_fn=<NllLossBackward0>)
+2.093167781829834
+tensor(2.1036, device='mps:0', grad_fn=<NllLossBackward0>)
+2.1035501956939697
+tensor(2.0859, device='mps:0', grad_fn=<NllLossBackward0>)
+2.0858826637268066
+tensor(2.0924, device='mps:0', grad_fn=<NllLossBackward0>)
+2.0923924446105957
+tensor(2.0647, device='mps:0', grad_fn=<NllLossBackward0>)
+2.0647006034851074
+tensor(2.0507, device='mps:0', grad_fn=<NllLossBackward0>)
+2.050675392150879
+tensor(2.0122, device='mps:0', grad_fn=<NllLossBackward0>)
+2.0121915340423584
+tensor(2.0211, device='mps:0', grad_fn=<NllLossBackward0>)
+2.0210657119750977
+tensor(1.9751, device='mps:0', grad_fn=<NllLossBackward0>)
+1.9750949144363403
+tensor(1.9621, device='mps:0', grad_fn=<NllLossBackward0>)
+1.9621131420135498
+tensor(1.9524, device='mps:0', grad_fn=<NllLossBackward0>)
+1.9524040222167969
+tensor(1.8603, device='mps:0', grad_fn=<NllLossBackward0>)
+1.8602806329727173
+tensor(1.9017, device='mps:0', grad_fn=<NllLossBackward0>)
+1.901718258857727
+tensor(1.8818, device='mps:0', grad_fn=<NllLossBackward0>)
+1.8818159103393555
+tensor(1.8552, device='mps:0', grad_fn=<NllLossBackward0>)
+1.8552312850952148
+tensor(1.8863, device='mps:0', grad_fn=<NllLossBackward0>)
+1.886322259902954
+tensor(1.8314, device='mps:0', grad_fn=<NllLossBackward0>)
+1.831355094909668
+tensor(1.8178, device='mps:0', grad_fn=<NllLossBackward0>)
+1.8178342580795288
+tensor(1.7459, device='mps:0', grad_fn=<NllLossBackward0>)
+1.7458938360214233
+tensor(1.7826, device='mps:0', grad_fn=<NllLossBackward0>)
+1.7825729846954346
+tensor(1.7529, device='mps:0', grad_fn=<NllLossBackward0>)
+1.752938985824585
+tensor(1.7260, device='mps:0', grad_fn=<NllLossBackward0>)
+1.726008415222168
+tensor(1.7299, device='mps:0', grad_fn=<NllLossBackward0>)
+1.7299028635025024
+tensor(1.6922, device='mps:0', grad_fn=<NllLossBackward0>)
+1.6922277212142944
+tensor(1.6708, device='mps:0', grad_fn=<NllLossBackward0>)
+1.6707514524459839
+tensor(1.7084, device='mps:0', grad_fn=<NllLossBackward0>)
+1.7084360122680664
+tensor(1.6725, device='mps:0', grad_fn=<NllLossBackward0>)
+1.6725399494171143
+tensor(1.7031, device='mps:0', grad_fn=<NllLossBackward0>)
+1.7031108140945435
+tensor(1.6849, device='mps:0', grad_fn=<NllLossBackward0>)
+1.6848504543304443
+tensor(1.6566, device='mps:0', grad_fn=<NllLossBackward0>)
+1.656618356704712
+tensor(1.7022, device='mps:0', grad_fn=<NllLossBackward0>)
+1.7022314071655273
+tensor(1.6047, device='mps:0', grad_fn=<NllLossBackward0>)
+1.604680061340332
+tensor(1.6325, device='mps:0', grad_fn=<NllLossBackward0>)
+1.63248610496521
+tensor(1.6155, device='mps:0', grad_fn=<NllLossBackward0>)
+1.615521788597107
+tensor(1.5994, device='mps:0', grad_fn=<NllLossBackward0>)
+1.599358320236206
+tensor(1.5967, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5966718196868896
+tensor(1.6033, device='mps:0', grad_fn=<NllLossBackward0>)
+1.6032671928405762
+tensor(1.5466, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5466036796569824
+tensor(1.5598, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5597689151763916
+tensor(1.5302, device='mps:0', grad_fn=<NllLossBackward0>)
+
+ 50%|██████████████████████▌                      | 1/2 [00:05<00:05,  5.73s/it]
+tensor(1.5664, device='mps:0', grad_fn=<NllLossBackward0>)
+1.566394329071045
+tensor(1.5837, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5836570262908936
+tensor(1.5640, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5640472173690796
+tensor(1.5737, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5736522674560547
+tensor(1.5928, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5927913188934326
+tensor(1.5085, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5085011720657349
+tensor(1.5217, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5217385292053223
+tensor(1.5580, device='mps:0', grad_fn=<NllLossBackward0>)
+1.557976484298706
+tensor(1.5098, device='mps:0', grad_fn=<NllLossBackward0>)
+1.509828805923462
+tensor(1.5073, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5072999000549316
+tensor(1.5149, device='mps:0', grad_fn=<NllLossBackward0>)
+1.514894962310791
+tensor(1.5213, device='mps:0', grad_fn=<NllLossBackward0>)
+1.521347165107727
+tensor(1.4946, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4946484565734863
+tensor(1.4693, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4693052768707275
+tensor(1.5086, device='mps:0', grad_fn=<NllLossBackward0>)
+1.5086495876312256
+tensor(1.4450, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4450197219848633
+tensor(1.4803, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4802669286727905
+tensor(1.4804, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4804160594940186
+tensor(1.4861, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4861221313476562
+tensor(1.4564, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4563755989074707
+tensor(1.4563, device='mps:0', grad_fn=<NllLossBackward0>)
+1.456336259841919
+tensor(1.4516, device='mps:0', grad_fn=<NllLossBackward0>)
+1.451608419418335
+tensor(1.4228, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4228174686431885
+tensor(1.4326, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4325896501541138
+tensor(1.4506, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4506077766418457
+tensor(1.4066, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4066075086593628
+tensor(1.4542, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4542181491851807
+tensor(1.4534, device='mps:0', grad_fn=<NllLossBackward0>)
+1.453354835510254
+tensor(1.4151, device='mps:0', grad_fn=<NllLossBackward0>)
+1.415093183517456
+tensor(1.4907, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4907023906707764
+tensor(1.4304, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4303598403930664
+tensor(1.4244, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4244277477264404
+tensor(1.4291, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4291050434112549
+tensor(1.4191, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4191279411315918
+tensor(1.3981, device='mps:0', grad_fn=<NllLossBackward0>)
+1.3980522155761719
+tensor(1.4091, device='mps:0', grad_fn=<NllLossBackward0>)
+1.40911865234375
+tensor(1.3880, device='mps:0', grad_fn=<NllLossBackward0>)
+1.3879835605621338
+tensor(1.3619, device='mps:0', grad_fn=<NllLossBackward0>)
+1.3619015216827393
+tensor(1.3842, device='mps:0', grad_fn=<NllLossBackward0>)
+1.3842297792434692
+tensor(1.4600, device='mps:0', grad_fn=<NllLossBackward0>)
+1.460044264793396
+tensor(1.3623, device='mps:0', grad_fn=<NllLossBackward0>)
+1.362343430519104
+tensor(1.3919, device='mps:0', grad_fn=<NllLossBackward0>)
+1.3919038772583008
+tensor(1.4052, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4052412509918213
+tensor(1.4466, device='mps:0', grad_fn=<NllLossBackward0>)
+1.446642518043518
+tensor(1.3955, device='mps:0', grad_fn=<NllLossBackward0>)
+1.395535945892334
+tensor(1.4099, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4099175930023193
+tensor(1.4123, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4122917652130127
+tensor(1.4474, device='mps:0', grad_fn=<NllLossBackward0>)
+1.4473934173583984
+tensor(1.4251, device='mps:0', grad_fn=<NllLossBackward0>)
+1.425119400024414
+tensor(1.4000, device='mps:0', grad_fn=<NllLossBackward0>)
+1.3999834060668945
+tensor(1.3754, device='mps:0', grad_fn=<NllLossBackward0>)
+1.3753786087036133
+tensor(1.3431, device='mps:0', grad_fn=<NllLossBackward0>)
+
+100%|█████████████████████████████████████████████| 2/2 [00:09<00:00,  4.52s/it]

@@ -1,0 +1,30 @@
+{
+    "os": "macOS-14.4.1-arm64-arm-64bit",
+    "python": "3.11.8",
+    "heartbeatAt": "2024-04-03T21:33:16.524940",
+    "startedAt": "2024-04-03T21:33:14.795682",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "HP-Pro-41G32KS.local",
+    "username": "dirak",
+    "executable": "/Users/dirak/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 217.8292007446289
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

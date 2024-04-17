@@ -1,0 +1,269 @@
+  0%|                                                     | 0/1 [00:00<?, ?it/s]
+  0%|▏                                         | 6/1875 [00:01<05:29,  5.68it/s]
+e
+tensor(2.2743, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(4.3674, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.1481, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.6162, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.7661, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(5.9135, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(10.4343, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.5635, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.9668, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.1916, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+
+  1%|▍                                        | 18/1875 [00:03<05:00,  6.17it/s]
+e
+tensor(False, device='mps:0')
+tensor(5.7369, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.1865, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.3839, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.1792, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.3489, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.6198, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.5678, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.0559, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(10.2231, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.1129, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.7624, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.7148, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.2835, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(5.0545, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.1337, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.6236, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(5.2382, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.8224, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+
+  3%|█                                        | 48/1875 [00:05<01:48, 16.80it/s]
+tensor(9.4180, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.0197, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(11.5401, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(10.8918, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.6085, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.7950, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.7605, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(5.2875, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.6188, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.2659, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.8645, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.2304, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.8270, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(10.1599, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.7150, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.9227, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(10.5826, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.4081, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(11.6404, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(10.5827, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.0909, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.0663, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.3542, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.5383, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.8098, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.4570, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.6154, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.3269, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+
+  4%|█▊                                       | 83/1875 [00:07<01:43, 17.30it/s]
+e
+tensor(False, device='mps:0')
+tensor(9.5435, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.4641, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.3042, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.4430, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(10.3390, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.7593, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.6694, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.9583, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.0006, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.3450, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.4839, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.9798, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.3484, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.6924, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.1480, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.7817, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(13.3849, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.4390, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.2449, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.4534, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.5090, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(5.5600, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.9488, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(6.9780, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(9.0474, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+
+100%|█████████████████████████████████████████████| 1/1 [00:09<00:00,  9.39s/it]
+e
+tensor(False, device='mps:0')
+tensor(8.7670, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(8.9043, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.1727, device='mps:0', grad_fn=<NllLossBackward0>)
+e
+tensor(False, device='mps:0')
+tensor(7.3224, device='mps:0', grad_fn=<NllLossBackward0>)

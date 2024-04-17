@@ -1,0 +1,62 @@
+2024-04-03 05:49:47,241 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Current SDK version is 0.16.5
+2024-04-03 05:49:47,241 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Configure stats pid to 6175
+2024-04-03 05:49:47,241 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Loading settings from /Users/dirak/.config/wandb/settings
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Loading settings from /Users/dirak/Documents/Projects/mmro-spring-2024/hw2/wandb/settings
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_init.py:_log_setup():527] Logging user logs to /Users/dirak/Documents/Projects/mmro-spring-2024/hw2/wandb/run-20240403_054947-j0epth3w/logs/debug.log
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_init.py:_log_setup():528] Logging internal logs to /Users/dirak/Documents/Projects/mmro-spring-2024/hw2/wandb/run-20240403_054947-j0epth3w/logs/debug-internal.log
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_init.py:init():567] calling init triggers
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_init.py:init():574] wandb.init called with sweep_config: {}
+config: {}
+2024-04-03 05:49:47,242 INFO    MainThread:6175 [wandb_init.py:init():592] re-initializing run, found existing run on stack: pkksfvai
+2024-04-03 05:49:47,244 INFO    MainThread:6175 [wandb_run.py:_finish():2052] finishing run mmp_mmro/mmro_mmp/pkksfvai
+2024-04-03 05:49:47,245 INFO    MainThread:6175 [jupyter.py:save_history():445] not saving jupyter history
+2024-04-03 05:49:47,245 INFO    MainThread:6175 [jupyter.py:save_ipynb():373] not saving jupyter notebook
+2024-04-03 05:49:47,245 INFO    MainThread:6175 [wandb_init.py:_jupyter_teardown():455] cleaning up jupyter logic
+2024-04-03 05:49:47,245 INFO    MainThread:6175 [wandb_run.py:_atexit_cleanup():2292] got exitcode: 0
+2024-04-03 05:49:47,245 INFO    MainThread:6175 [wandb_run.py:_restore():2275] restore
+2024-04-03 05:49:47,245 INFO    MainThread:6175 [wandb_run.py:_restore():2281] restore done
+2024-04-03 05:49:52,351 INFO    MainThread:6175 [wandb_run.py:_footer_history_summary_info():3920] rendering history
+2024-04-03 05:49:52,354 INFO    MainThread:6175 [wandb_run.py:_footer_history_summary_info():3952] rendering summary
+2024-04-03 05:49:52,377 INFO    MainThread:6175 [wandb_run.py:_footer_sync_info():3879] logging synced files
+2024-04-03 05:49:52,555 INFO    MainThread:6175 [wandb_init.py:init():617] starting backend
+2024-04-03 05:49:52,555 INFO    MainThread:6175 [wandb_init.py:init():621] setting up manager
+2024-04-03 05:49:52,558 INFO    MainThread:6175 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-04-03 05:49:52,559 INFO    MainThread:6175 [wandb_init.py:init():629] backend started and connected
+2024-04-03 05:49:52,588 INFO    MainThread:6175 [wandb_run.py:_label_probe_notebook():1299] probe notebook
+2024-04-03 05:49:52,588 INFO    MainThread:6175 [wandb_run.py:_label_probe_notebook():1309] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-04-03 05:49:52,588 INFO    MainThread:6175 [wandb_init.py:init():721] updated telemetry
+2024-04-03 05:49:52,589 INFO    MainThread:6175 [wandb_init.py:init():754] communicating run to backend with 90.0 second timeout
+2024-04-03 05:49:54,014 INFO    MainThread:6175 [wandb_run.py:_on_init():2344] communicating current version
+2024-04-03 05:49:54,239 INFO    MainThread:6175 [wandb_run.py:_on_init():2353] got version response 
+2024-04-03 05:49:54,239 INFO    MainThread:6175 [wandb_init.py:init():805] starting run threads in backend
+2024-04-03 05:50:02,161 INFO    MainThread:6175 [wandb_run.py:_console_start():2323] atexit reg
+2024-04-03 05:50:02,162 INFO    MainThread:6175 [wandb_run.py:_redirect():2178] redirect: wrap_raw
+2024-04-03 05:50:02,162 INFO    MainThread:6175 [wandb_run.py:_redirect():2243] Wrapping output streams.
+2024-04-03 05:50:02,162 INFO    MainThread:6175 [wandb_run.py:_redirect():2268] Redirects installed.
+2024-04-03 05:50:02,163 INFO    MainThread:6175 [wandb_init.py:init():848] run started, returning control to user process
+2024-04-03 05:55:15,402 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Current SDK version is 0.16.5
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Configure stats pid to 6175
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Loading settings from /Users/dirak/.config/wandb/settings
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Loading settings from /Users/dirak/Documents/Projects/mmro-spring-2024/hw2/wandb/settings
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_init.py:_log_setup():527] Logging user logs to /Users/dirak/Documents/Projects/mmro-spring-2024/hw2/wandb/run-20240403_055515-tobjdvl4/logs/debug.log
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_init.py:_log_setup():528] Logging internal logs to /Users/dirak/Documents/Projects/mmro-spring-2024/hw2/wandb/run-20240403_055515-tobjdvl4/logs/debug-internal.log
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_init.py:_jupyter_setup():473] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x169958c50>
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_init.py:init():567] calling init triggers
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_init.py:init():574] wandb.init called with sweep_config: {}
+config: {}
+2024-04-03 05:55:15,403 INFO    MainThread:6175 [wandb_init.py:init():592] re-initializing run, found existing run on stack: j0epth3w
+2024-04-03 05:55:15,405 INFO    MainThread:6175 [wandb_run.py:_finish():2052] finishing run mmp_mmro/mmro_mmp/j0epth3w
+2024-04-03 05:55:15,405 INFO    MainThread:6175 [wandb_run.py:_atexit_cleanup():2292] got exitcode: 0
+2024-04-03 05:55:15,405 INFO    MainThread:6175 [wandb_run.py:_restore():2275] restore
+2024-04-03 05:55:15,406 INFO    MainThread:6175 [wandb_run.py:_restore():2281] restore done
+2024-04-03 05:55:40,347 INFO    MainThread:6175 [wandb_run.py:_footer_history_summary_info():3920] rendering history
+2024-04-03 05:55:40,350 INFO    MainThread:6175 [wandb_run.py:_footer_history_summary_info():3952] rendering summary
+2024-04-03 05:55:40,365 INFO    MainThread:6175 [wandb_run.py:_footer_sync_info():3879] logging synced files

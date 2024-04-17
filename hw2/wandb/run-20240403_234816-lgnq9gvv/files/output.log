@@ -1,0 +1,2039 @@
+  0%|                                                     | 0/9 [00:00<?, ?it/s]
+  9%|███▉                                      | 11/117 [00:02<00:11,  9.30it/s]
+2.320650577545166
+tensor(False, device='mps:0')
+4.051181793212891
+tensor(False, device='mps:0')
+7.8506999015808105
+tensor(False, device='mps:0')
+7.816572189331055
+tensor(False, device='mps:0')
+7.956742286682129
+tensor(False, device='mps:0')
+8.133241653442383
+tensor(False, device='mps:0')
+8.176368713378906
+tensor(False, device='mps:0')
+7.950126647949219
+tensor(False, device='mps:0')
+8.017553329467773
+tensor(False, device='mps:0')
+7.771039009094238
+tensor(False, device='mps:0')
+7.658709526062012
+tensor(False, device='mps:0')
+8.347908973693848
+tensor(False, device='mps:0')
+7.820470809936523
+tensor(False, device='mps:0')
+8.076732635498047
+tensor(False, device='mps:0')
+8.276519775390625
+tensor(False, device='mps:0')
+8.321916580200195
+tensor(False, device='mps:0')
+7.85254430770874
+tensor(False, device='mps:0')
+7.857386589050293
+tensor(False, device='mps:0')
+8.241936683654785
+tensor(False, device='mps:0')
+7.9680023193359375
+tensor(False, device='mps:0')
+7.1743059158325195
+tensor(False, device='mps:0')
+8.577693939208984
+tensor(False, device='mps:0')
+
+ 36%|███████████████                           | 42/117 [00:03<00:03, 20.25it/s]
+tensor(False, device='mps:0')
+8.76940631866455
+tensor(False, device='mps:0')
+8.196712493896484
+tensor(False, device='mps:0')
+7.467474937438965
+tensor(False, device='mps:0')
+7.968570709228516
+tensor(False, device='mps:0')
+8.218798637390137
+tensor(False, device='mps:0')
+8.490245819091797
+tensor(False, device='mps:0')
+7.9613938331604
+tensor(False, device='mps:0')
+7.816859722137451
+tensor(False, device='mps:0')
+8.773641586303711
+tensor(False, device='mps:0')
+8.47188949584961
+tensor(False, device='mps:0')
+7.393495559692383
+tensor(False, device='mps:0')
+7.898880958557129
+tensor(False, device='mps:0')
+7.951893329620361
+tensor(False, device='mps:0')
+8.047647476196289
+tensor(False, device='mps:0')
+8.087992668151855
+tensor(False, device='mps:0')
+7.949913024902344
+tensor(False, device='mps:0')
+8.217037200927734
+tensor(False, device='mps:0')
+7.3592634201049805
+tensor(False, device='mps:0')
+7.591272354125977
+tensor(False, device='mps:0')
+7.9016642570495605
+tensor(False, device='mps:0')
+8.928558349609375
+tensor(False, device='mps:0')
+8.323826789855957
+tensor(False, device='mps:0')
+8.578453063964844
+tensor(False, device='mps:0')
+8.176765441894531
+tensor(False, device='mps:0')
+8.456903457641602
+tensor(False, device='mps:0')
+7.855082988739014
+tensor(False, device='mps:0')
+
+ 56%|███████████████████████▋                  | 66/117 [00:06<00:03, 16.94it/s]
+tensor(False, device='mps:0')
+8.255228042602539
+tensor(False, device='mps:0')
+7.674280166625977
+tensor(False, device='mps:0')
+8.348062515258789
+tensor(False, device='mps:0')
+8.45845890045166
+tensor(False, device='mps:0')
+8.011723518371582
+tensor(False, device='mps:0')
+8.144933700561523
+tensor(False, device='mps:0')
+8.095870018005371
+tensor(False, device='mps:0')
+8.032154083251953
+tensor(False, device='mps:0')
+8.149250030517578
+tensor(False, device='mps:0')
+8.368154525756836
+tensor(False, device='mps:0')
+8.299993515014648
+tensor(False, device='mps:0')
+7.38766622543335
+tensor(False, device='mps:0')
+7.8502302169799805
+tensor(False, device='mps:0')
+7.654454231262207
+tensor(False, device='mps:0')
+8.148208618164062
+tensor(False, device='mps:0')
+8.063596725463867
+tensor(False, device='mps:0')
+7.975009441375732
+tensor(False, device='mps:0')
+7.782723426818848
+tensor(False, device='mps:0')
+8.366182327270508
+tensor(False, device='mps:0')
+7.737977981567383
+tensor(False, device='mps:0')
+8.266923904418945
+tensor(False, device='mps:0')
+7.383260726928711
+tensor(False, device='mps:0')
+7.5498833656311035
+tensor(False, device='mps:0')
+7.785068511962891
+tensor(False, device='mps:0')
+8.91540241241455
+tensor(False, device='mps:0')
+8.116039276123047
+tensor(False, device='mps:0')
+8.194734573364258
+tensor(False, device='mps:0')
+8.290700912475586
+tensor(False, device='mps:0')
+8.539159774780273
+tensor(False, device='mps:0')
+7.870673179626465
+tensor(False, device='mps:0')
+
+ 85%|███████████████████████████████████▌      | 99/117 [00:07<00:00, 22.58it/s]
+tensor(False, device='mps:0')
+8.232133865356445
+tensor(False, device='mps:0')
+8.063764572143555
+tensor(False, device='mps:0')
+8.45541763305664
+tensor(False, device='mps:0')
+8.083820343017578
+tensor(False, device='mps:0')
+8.754179000854492
+tensor(False, device='mps:0')
+8.92976188659668
+tensor(False, device='mps:0')
+8.04904556274414
+tensor(False, device='mps:0')
+8.069921493530273
+tensor(False, device='mps:0')
+7.544404029846191
+tensor(False, device='mps:0')
+8.022804260253906
+tensor(False, device='mps:0')
+7.823816299438477
+tensor(False, device='mps:0')
+8.197410583496094
+tensor(False, device='mps:0')
+8.068861961364746
+tensor(False, device='mps:0')
+7.834619522094727
+tensor(False, device='mps:0')
+7.882870674133301
+tensor(False, device='mps:0')
+8.15707778930664
+tensor(False, device='mps:0')
+7.595506191253662
+tensor(False, device='mps:0')
+8.198419570922852
+tensor(False, device='mps:0')
+7.289728164672852
+tensor(False, device='mps:0')
+8.739213943481445
+tensor(False, device='mps:0')
+7.521624565124512
+tensor(False, device='mps:0')
+7.973139762878418
+tensor(False, device='mps:0')
+7.82250452041626
+tensor(False, device='mps:0')
+8.089080810546875
+tensor(False, device='mps:0')
+8.766411781311035
+tensor(False, device='mps:0')
+9.230875015258789
+tensor(False, device='mps:0')
+8.902523040771484
+tensor(False, device='mps:0')
+8.020210266113281
+tensor(False, device='mps:0')
+7.757147789001465
+tensor(False, device='mps:0')
+7.785588264465332
+tensor(False, device='mps:0')
+8.792997360229492
+tensor(False, device='mps:0')
+8.571059226989746
+tensor(False, device='mps:0')
+8.098726272583008
+tensor(False, device='mps:0')
+7.988399028778076
+tensor(False, device='mps:0')
+7.143134117126465
+tensor(False, device='mps:0')
+ 11%|█████                                        | 1/9 [00:09<01:12,  9.09s/it]
+ 13%|█████▍                                    | 15/117 [00:00<00:04, 22.97it/s]
+tensor(False, device='mps:0')
+8.140632629394531
+tensor(False, device='mps:0')
+8.471427917480469
+tensor(False, device='mps:0')
+7.581219673156738
+tensor(False, device='mps:0')
+8.16142463684082
+tensor(False, device='mps:0')
+7.476853370666504
+tensor(False, device='mps:0')
+8.130632400512695
+tensor(False, device='mps:0')
+8.36014175415039
+tensor(False, device='mps:0')
+8.452754974365234
+tensor(False, device='mps:0')
+6.921748161315918
+tensor(False, device='mps:0')
+7.84123420715332
+tensor(False, device='mps:0')
+8.558597564697266
+tensor(False, device='mps:0')
+7.949634552001953
+tensor(False, device='mps:0')
+8.274505615234375
+tensor(False, device='mps:0')
+8.154024124145508
+tensor(False, device='mps:0')
+8.507692337036133
+tensor(False, device='mps:0')
+8.349498748779297
+tensor(False, device='mps:0')
+8.552146911621094
+tensor(False, device='mps:0')
+8.104852676391602
+tensor(False, device='mps:0')
+8.391845703125
+tensor(False, device='mps:0')
+7.892790794372559
+tensor(False, device='mps:0')
+8.063630104064941
+tensor(False, device='mps:0')
+8.395946502685547
+tensor(False, device='mps:0')
+7.906928539276123
+tensor(False, device='mps:0')
+8.291093826293945
+tensor(False, device='mps:0')
+8.356700897216797
+tensor(False, device='mps:0')
+8.158811569213867
+tensor(False, device='mps:0')
+8.887885093688965
+tensor(False, device='mps:0')
+7.892181396484375
+tensor(False, device='mps:0')
+8.23847484588623
+tensor(False, device='mps:0')
+8.278661727905273
+tensor(False, device='mps:0')
+7.8565263748168945
+tensor(False, device='mps:0')
+8.356850624084473
+tensor(False, device='mps:0')
+8.59947395324707
+tensor(False, device='mps:0')
+8.160009384155273
+tensor(False, device='mps:0')
+
+ 45%|███████████████████                       | 53/117 [00:02<00:02, 21.57it/s]
+tensor(False, device='mps:0')
+8.041098594665527
+tensor(False, device='mps:0')
+8.258142471313477
+tensor(False, device='mps:0')
+8.486162185668945
+tensor(False, device='mps:0')
+7.957850456237793
+tensor(False, device='mps:0')
+7.5752153396606445
+tensor(False, device='mps:0')
+7.179052352905273
+tensor(False, device='mps:0')
+8.161078453063965
+tensor(False, device='mps:0')
+8.244903564453125
+tensor(False, device='mps:0')
+8.36611557006836
+tensor(False, device='mps:0')
+8.12002182006836
+tensor(False, device='mps:0')
+8.020214080810547
+tensor(False, device='mps:0')
+7.988945007324219
+tensor(False, device='mps:0')
+7.538984775543213
+tensor(False, device='mps:0')
+7.723499298095703
+tensor(False, device='mps:0')
+8.331816673278809
+tensor(False, device='mps:0')
+8.356441497802734
+tensor(False, device='mps:0')
+7.540240287780762
+tensor(False, device='mps:0')
+8.210708618164062
+tensor(False, device='mps:0')
+8.749883651733398
+tensor(False, device='mps:0')
+7.772504806518555
+tensor(False, device='mps:0')
+7.846571445465088
+tensor(False, device='mps:0')
+8.689216613769531
+tensor(False, device='mps:0')
+8.508968353271484
+tensor(False, device='mps:0')
+7.853403568267822
+tensor(False, device='mps:0')
+7.981701850891113
+tensor(False, device='mps:0')
+7.982514381408691
+tensor(False, device='mps:0')
+9.262025833129883
+tensor(False, device='mps:0')
+8.341880798339844
+tensor(False, device='mps:0')
+8.64310073852539
+tensor(False, device='mps:0')
+7.821422576904297
+tensor(False, device='mps:0')
+8.112311363220215
+tensor(False, device='mps:0')
+8.532724380493164
+tensor(False, device='mps:0')
+7.925629138946533
+tensor(False, device='mps:0')
+8.244672775268555
+tensor(False, device='mps:0')
+8.230768203735352
+tensor(False, device='mps:0')
+8.223175048828125
+tensor(False, device='mps:0')
+7.414888381958008
+tensor(False, device='mps:0')
+7.899374961853027
+tensor(False, device='mps:0')
+7.600632667541504
+tensor(False, device='mps:0')
+7.113041400909424
+tensor(False, device='mps:0')
+7.951175212860107
+tensor(False, device='mps:0')
+8.182388305664062
+tensor(False, device='mps:0')
+8.514404296875
+tensor(False, device='mps:0')
+7.845751762390137
+tensor(False, device='mps:0')
+
+ 76%|███████████████████████████████▉          | 89/117 [00:04<00:01, 16.36it/s]
+tensor(False, device='mps:0')
+8.345316886901855
+tensor(False, device='mps:0')
+8.27530574798584
+tensor(False, device='mps:0')
+7.828132629394531
+tensor(False, device='mps:0')
+8.095538139343262
+tensor(False, device='mps:0')
+8.143353462219238
+tensor(False, device='mps:0')
+7.53658390045166
+tensor(False, device='mps:0')
+7.178184986114502
+tensor(False, device='mps:0')
+7.708054542541504
+tensor(False, device='mps:0')
+8.126029968261719
+tensor(False, device='mps:0')
+7.940275192260742
+tensor(False, device='mps:0')
+8.33287239074707
+tensor(False, device='mps:0')
+8.242769241333008
+tensor(False, device='mps:0')
+8.158154487609863
+tensor(False, device='mps:0')
+7.78977108001709
+tensor(False, device='mps:0')
+7.649829864501953
+tensor(False, device='mps:0')
+7.36322021484375
+tensor(False, device='mps:0')
+8.243499755859375
+tensor(False, device='mps:0')
+8.601086616516113
+tensor(False, device='mps:0')
+8.262207984924316
+tensor(False, device='mps:0')
+7.688681602478027
+tensor(False, device='mps:0')
+8.067381858825684
+tensor(False, device='mps:0')
+8.281103134155273
+tensor(False, device='mps:0')
+7.997322082519531
+tensor(False, device='mps:0')
+7.3831586837768555
+tensor(False, device='mps:0')
+9.118941307067871
+tensor(False, device='mps:0')
+7.606818199157715
+tensor(False, device='mps:0')
+7.777835845947266
+tensor(False, device='mps:0')
+8.113381385803223
+tensor(False, device='mps:0')
+8.192520141601562
+tensor(False, device='mps:0')
+7.868198394775391
+tensor(False, device='mps:0')
+8.257426261901855
+tensor(False, device='mps:0')
+8.692562103271484
+tensor(False, device='mps:0')
+ 22%|██████████                                   | 2/9 [00:15<00:51,  7.32s/it]
+ 13%|█████▍                                    | 15/117 [00:00<00:04, 21.26it/s]
+tensor(False, device='mps:0')
+7.750036239624023
+tensor(False, device='mps:0')
+8.102842330932617
+tensor(False, device='mps:0')
+8.242431640625
+tensor(False, device='mps:0')
+7.550754070281982
+tensor(False, device='mps:0')
+7.619152069091797
+tensor(False, device='mps:0')
+8.317129135131836
+tensor(False, device='mps:0')
+7.577703952789307
+tensor(False, device='mps:0')
+7.982578754425049
+tensor(False, device='mps:0')
+8.58262825012207
+tensor(False, device='mps:0')
+7.716946601867676
+tensor(False, device='mps:0')
+8.025988578796387
+tensor(False, device='mps:0')
+8.354514122009277
+tensor(False, device='mps:0')
+8.127570152282715
+tensor(False, device='mps:0')
+8.650978088378906
+tensor(False, device='mps:0')
+7.2700700759887695
+tensor(False, device='mps:0')
+8.404779434204102
+tensor(False, device='mps:0')
+8.24201774597168
+tensor(False, device='mps:0')
+9.115316390991211
+tensor(False, device='mps:0')
+8.20866870880127
+tensor(False, device='mps:0')
+8.768896102905273
+tensor(False, device='mps:0')
+8.448437690734863
+tensor(False, device='mps:0')
+8.500782012939453
+tensor(False, device='mps:0')
+7.665084362030029
+tensor(False, device='mps:0')
+8.4948148727417
+tensor(False, device='mps:0')
+7.850275993347168
+tensor(False, device='mps:0')
+7.943164348602295
+tensor(False, device='mps:0')
+8.078025817871094
+tensor(False, device='mps:0')
+7.902722358703613
+tensor(False, device='mps:0')
+7.412613868713379
+tensor(False, device='mps:0')
+7.857141494750977
+tensor(False, device='mps:0')
+8.370319366455078
+tensor(False, device='mps:0')
+8.121070861816406
+tensor(False, device='mps:0')
+7.611838340759277
+tensor(False, device='mps:0')
+8.029875755310059
+tensor(False, device='mps:0')
+8.028128623962402
+tensor(False, device='mps:0')
+8.542701721191406
+tensor(False, device='mps:0')
+8.044084548950195
+tensor(False, device='mps:0')
+
+ 44%|██████████████████▎                       | 51/117 [00:02<00:02, 23.44it/s]
+tensor(False, device='mps:0')
+7.870713233947754
+tensor(False, device='mps:0')
+8.244617462158203
+tensor(False, device='mps:0')
+8.234027862548828
+tensor(False, device='mps:0')
+8.262866973876953
+tensor(False, device='mps:0')
+8.481758117675781
+tensor(False, device='mps:0')
+8.113914489746094
+tensor(False, device='mps:0')
+8.04534912109375
+tensor(False, device='mps:0')
+7.677359580993652
+tensor(False, device='mps:0')
+8.224620819091797
+tensor(False, device='mps:0')
+8.479665756225586
+tensor(False, device='mps:0')
+7.991151809692383
+tensor(False, device='mps:0')
+7.847907066345215
+tensor(False, device='mps:0')
+7.664180278778076
+tensor(False, device='mps:0')
+8.369444847106934
+tensor(False, device='mps:0')
+7.4255828857421875
+tensor(False, device='mps:0')
+8.45287799835205
+tensor(False, device='mps:0')
+7.744218826293945
+tensor(False, device='mps:0')
+7.908646583557129
+tensor(False, device='mps:0')
+8.003656387329102
+tensor(False, device='mps:0')
+8.743687629699707
+tensor(False, device='mps:0')
+8.621676445007324
+tensor(False, device='mps:0')
+8.165475845336914
+tensor(False, device='mps:0')
+7.516679763793945
+tensor(False, device='mps:0')
+8.718938827514648
+tensor(False, device='mps:0')
+7.782771587371826
+tensor(False, device='mps:0')
+7.493555068969727
+tensor(False, device='mps:0')
+8.169086456298828
+tensor(False, device='mps:0')
+8.195405960083008
+tensor(False, device='mps:0')
+8.849615097045898
+tensor(False, device='mps:0')
+7.928991794586182
+tensor(False, device='mps:0')
+7.674483776092529
+tensor(False, device='mps:0')
+7.575168609619141
+tensor(False, device='mps:0')
+8.413716316223145
+tensor(False, device='mps:0')
+7.883005142211914
+tensor(False, device='mps:0')
+8.159996032714844
+tensor(False, device='mps:0')
+8.028783798217773
+tensor(False, device='mps:0')
+8.263607025146484
+tensor(False, device='mps:0')
+
+ 77%|████████████████████████████████▎         | 90/117 [00:04<00:01, 22.86it/s]
+tensor(False, device='mps:0')
+8.009221076965332
+tensor(False, device='mps:0')
+7.9527740478515625
+tensor(False, device='mps:0')
+8.507457733154297
+tensor(False, device='mps:0')
+8.439319610595703
+tensor(False, device='mps:0')
+7.853116512298584
+tensor(False, device='mps:0')
+7.592677116394043
+tensor(False, device='mps:0')
+8.325128555297852
+tensor(False, device='mps:0')
+8.458560943603516
+tensor(False, device='mps:0')
+7.745187759399414
+tensor(False, device='mps:0')
+8.465511322021484
+tensor(False, device='mps:0')
+7.668241024017334
+tensor(False, device='mps:0')
+8.218362808227539
+tensor(False, device='mps:0')
+7.66943359375
+tensor(False, device='mps:0')
+7.932585716247559
+tensor(False, device='mps:0')
+8.282242774963379
+tensor(False, device='mps:0')
+8.02035903930664
+tensor(False, device='mps:0')
+8.298580169677734
+tensor(False, device='mps:0')
+8.145734786987305
+tensor(False, device='mps:0')
+8.587905883789062
+tensor(False, device='mps:0')
+7.545915126800537
+tensor(False, device='mps:0')
+8.038192749023438
+tensor(False, device='mps:0')
+8.317087173461914
+tensor(False, device='mps:0')
+7.93075704574585
+tensor(False, device='mps:0')
+7.645131587982178
+tensor(False, device='mps:0')
+8.108211517333984
+tensor(False, device='mps:0')
+7.93314266204834
+tensor(False, device='mps:0')
+7.644112586975098
+tensor(False, device='mps:0')
+8.141281127929688
+tensor(False, device='mps:0')
+9.192481994628906
+tensor(False, device='mps:0')
+8.120658874511719
+tensor(False, device='mps:0')
+7.519195556640625
+tensor(False, device='mps:0')
+8.65138053894043
+tensor(False, device='mps:0')
+8.373960494995117
+tensor(False, device='mps:0')
+7.986297130584717
+tensor(False, device='mps:0')
+7.885441780090332
+tensor(False, device='mps:0')
+8.569007873535156
+tensor(False, device='mps:0')
+7.55671501159668
+tensor(False, device='mps:0')
+7.624135971069336
+tensor(False, device='mps:0')
+7.727231979370117
+tensor(False, device='mps:0')
+8.134760856628418
+tensor(False, device='mps:0')
+7.735416412353516
+tensor(False, device='mps:0')
+7.671398162841797
+tensor(False, device='mps:0')
+8.01280403137207
+tensor(False, device='mps:0')
+ 33%|███████████████                              | 3/9 [00:21<00:41,  6.92s/it]
+  4%|█▊                                         | 5/117 [00:00<00:05, 21.55it/s]
+tensor(False, device='mps:0')
+7.891031265258789
+tensor(False, device='mps:0')
+7.65723991394043
+tensor(False, device='mps:0')
+7.816777229309082
+tensor(False, device='mps:0')
+8.084620475769043
+tensor(False, device='mps:0')
+7.939800262451172
+tensor(False, device='mps:0')
+7.71968412399292
+tensor(False, device='mps:0')
+8.206886291503906
+tensor(False, device='mps:0')
+8.19407844543457
+tensor(False, device='mps:0')
+8.273810386657715
+tensor(False, device='mps:0')
+8.49834156036377
+tensor(False, device='mps:0')
+7.940374374389648
+tensor(False, device='mps:0')
+8.349485397338867
+tensor(False, device='mps:0')
+8.213358879089355
+tensor(False, device='mps:0')
+7.629307746887207
+tensor(False, device='mps:0')
+8.388399124145508
+tensor(False, device='mps:0')
+7.486502170562744
+tensor(False, device='mps:0')
+7.98811149597168
+tensor(False, device='mps:0')
+7.567292213439941
+tensor(False, device='mps:0')
+7.694335460662842
+tensor(False, device='mps:0')
+8.783295631408691
+tensor(False, device='mps:0')
+8.059698104858398
+tensor(False, device='mps:0')
+7.947145462036133
+tensor(False, device='mps:0')
+8.150572776794434
+tensor(False, device='mps:0')
+8.156110763549805
+tensor(False, device='mps:0')
+8.09907341003418
+tensor(False, device='mps:0')
+8.13853645324707
+tensor(False, device='mps:0')
+8.07187557220459
+tensor(False, device='mps:0')
+9.055919647216797
+tensor(False, device='mps:0')
+7.466371536254883
+tensor(False, device='mps:0')
+7.751889228820801
+tensor(False, device='mps:0')
+8.301749229431152
+tensor(False, device='mps:0')
+7.946880340576172
+tensor(False, device='mps:0')
+7.2800397872924805
+tensor(False, device='mps:0')
+
+ 40%|████████████████▊                         | 47/117 [00:02<00:03, 19.74it/s]
+tensor(False, device='mps:0')
+8.780118942260742
+tensor(False, device='mps:0')
+8.359895706176758
+tensor(False, device='mps:0')
+7.829721450805664
+tensor(False, device='mps:0')
+7.235767364501953
+tensor(False, device='mps:0')
+7.576516151428223
+tensor(False, device='mps:0')
+8.435684204101562
+tensor(False, device='mps:0')
+8.341575622558594
+tensor(False, device='mps:0')
+8.449174880981445
+tensor(False, device='mps:0')
+7.692994117736816
+tensor(False, device='mps:0')
+8.195735931396484
+tensor(False, device='mps:0')
+8.329072952270508
+tensor(False, device='mps:0')
+8.121488571166992
+tensor(False, device='mps:0')
+8.825872421264648
+tensor(False, device='mps:0')
+7.594512939453125
+tensor(False, device='mps:0')
+7.972840309143066
+tensor(False, device='mps:0')
+8.872102737426758
+tensor(False, device='mps:0')
+8.355432510375977
+tensor(False, device='mps:0')
+7.674824237823486
+tensor(False, device='mps:0')
+8.715238571166992
+tensor(False, device='mps:0')
+7.849362373352051
+tensor(False, device='mps:0')
+7.638246536254883
+tensor(False, device='mps:0')
+8.44775104522705
+tensor(False, device='mps:0')
+8.08499813079834
+tensor(False, device='mps:0')
+8.080731391906738
+tensor(False, device='mps:0')
+7.909008502960205
+tensor(False, device='mps:0')
+7.597442626953125
+tensor(False, device='mps:0')
+8.0387601852417
+tensor(False, device='mps:0')
+8.862174987792969
+tensor(False, device='mps:0')
+7.797107219696045
+tensor(False, device='mps:0')
+7.825321197509766
+tensor(False, device='mps:0')
+8.568037986755371
+tensor(False, device='mps:0')
+
+ 68%|████████████████████████████▎             | 79/117 [00:04<00:01, 20.66it/s]
+tensor(False, device='mps:0')
+7.679332256317139
+tensor(False, device='mps:0')
+8.276260375976562
+tensor(False, device='mps:0')
+7.738929748535156
+tensor(False, device='mps:0')
+8.490720748901367
+tensor(False, device='mps:0')
+8.524445533752441
+tensor(False, device='mps:0')
+8.269024848937988
+tensor(False, device='mps:0')
+8.379874229431152
+tensor(False, device='mps:0')
+7.917142868041992
+tensor(False, device='mps:0')
+7.7164225578308105
+tensor(False, device='mps:0')
+8.036928176879883
+tensor(False, device='mps:0')
+9.06769847869873
+tensor(False, device='mps:0')
+7.951225280761719
+tensor(False, device='mps:0')
+8.22247314453125
+tensor(False, device='mps:0')
+7.346128940582275
+tensor(False, device='mps:0')
+8.827625274658203
+tensor(False, device='mps:0')
+8.585942268371582
+tensor(False, device='mps:0')
+8.219759941101074
+tensor(False, device='mps:0')
+7.920275688171387
+tensor(False, device='mps:0')
+7.630529403686523
+tensor(False, device='mps:0')
+8.11785888671875
+tensor(False, device='mps:0')
+7.968731880187988
+tensor(False, device='mps:0')
+7.663395881652832
+tensor(False, device='mps:0')
+7.98112678527832
+tensor(False, device='mps:0')
+8.24897575378418
+tensor(False, device='mps:0')
+7.798578262329102
+tensor(False, device='mps:0')
+8.248190879821777
+tensor(False, device='mps:0')
+8.157115936279297
+tensor(False, device='mps:0')
+7.852880001068115
+tensor(False, device='mps:0')
+7.880274295806885
+tensor(False, device='mps:0')
+8.05673885345459
+tensor(False, device='mps:0')
+7.785575866699219
+tensor(False, device='mps:0')
+7.689109802246094
+tensor(False, device='mps:0')
+8.459939956665039
+tensor(False, device='mps:0')
+8.616510391235352
+tensor(False, device='mps:0')
+ 44%|████████████████████                         | 4/9 [00:27<00:33,  6.69s/it]
+  0%|                                                   | 0/117 [00:00<?, ?it/s]
+tensor(False, device='mps:0')
+7.48825740814209
+tensor(False, device='mps:0')
+8.216541290283203
+tensor(False, device='mps:0')
+8.61408805847168
+tensor(False, device='mps:0')
+7.7708635330200195
+tensor(False, device='mps:0')
+8.471334457397461
+tensor(False, device='mps:0')
+7.4417853355407715
+tensor(False, device='mps:0')
+7.598110198974609
+tensor(False, device='mps:0')
+8.186634063720703
+tensor(False, device='mps:0')
+7.924506187438965
+tensor(False, device='mps:0')
+8.170110702514648
+tensor(False, device='mps:0')
+7.862604141235352
+tensor(False, device='mps:0')
+8.225117683410645
+tensor(False, device='mps:0')
+8.169551849365234
+tensor(False, device='mps:0')
+8.71683120727539
+tensor(False, device='mps:0')
+8.702201843261719
+tensor(False, device='mps:0')
+8.50861930847168
+tensor(False, device='mps:0')
+7.584648132324219
+tensor(False, device='mps:0')
+8.456521034240723
+tensor(False, device='mps:0')
+8.363258361816406
+tensor(False, device='mps:0')
+7.475028038024902
+tensor(False, device='mps:0')
+7.883004188537598
+tensor(False, device='mps:0')
+8.240373611450195
+tensor(False, device='mps:0')
+8.122807502746582
+tensor(False, device='mps:0')
+7.635872840881348
+tensor(False, device='mps:0')
+7.815130710601807
+tensor(False, device='mps:0')
+8.160534858703613
+tensor(False, device='mps:0')
+7.401030540466309
+tensor(False, device='mps:0')
+6.857361316680908
+tensor(False, device='mps:0')
+8.357194900512695
+tensor(False, device='mps:0')
+7.776707172393799
+tensor(False, device='mps:0')
+7.9360270500183105
+tensor(False, device='mps:0')
+8.49363899230957
+tensor(False, device='mps:0')
+7.804060935974121
+tensor(False, device='mps:0')
+8.2305269241333
+tensor(False, device='mps:0')
+8.331611633300781
+tensor(False, device='mps:0')
+8.221138954162598
+tensor(False, device='mps:0')
+8.848709106445312
+tensor(False, device='mps:0')
+
+ 24%|██████████                                | 28/117 [00:01<00:07, 11.18it/s]
+tensor(False, device='mps:0')
+7.875326156616211
+tensor(False, device='mps:0')
+8.304377555847168
+tensor(False, device='mps:0')
+8.125162124633789
+tensor(False, device='mps:0')
+7.435354232788086
+tensor(False, device='mps:0')
+8.320802688598633
+tensor(False, device='mps:0')
+8.302207946777344
+tensor(False, device='mps:0')
+7.907049179077148
+tensor(False, device='mps:0')
+8.536495208740234
+tensor(False, device='mps:0')
+8.358540534973145
+tensor(False, device='mps:0')
+7.887471675872803
+tensor(False, device='mps:0')
+8.02004337310791
+tensor(False, device='mps:0')
+8.282304763793945
+tensor(False, device='mps:0')
+7.5795369148254395
+tensor(False, device='mps:0')
+8.883220672607422
+tensor(False, device='mps:0')
+8.072864532470703
+tensor(False, device='mps:0')
+8.004268646240234
+tensor(False, device='mps:0')
+8.434772491455078
+tensor(False, device='mps:0')
+7.7113494873046875
+tensor(False, device='mps:0')
+7.86014461517334
+tensor(False, device='mps:0')
+7.442727088928223
+tensor(False, device='mps:0')
+7.9469451904296875
+tensor(False, device='mps:0')
+
+ 46%|███████████████████▍                      | 54/117 [00:04<00:04, 13.09it/s]
+tensor(False, device='mps:0')
+8.26064682006836
+tensor(False, device='mps:0')
+8.103862762451172
+tensor(False, device='mps:0')
+7.758000373840332
+tensor(False, device='mps:0')
+8.00863265991211
+tensor(False, device='mps:0')
+7.958977699279785
+tensor(False, device='mps:0')
+7.323210716247559
+tensor(False, device='mps:0')
+8.0304536819458
+tensor(False, device='mps:0')
+7.8178791999816895
+tensor(False, device='mps:0')
+7.403891086578369
+tensor(False, device='mps:0')
+7.641695022583008
+tensor(False, device='mps:0')
+8.547475814819336
+tensor(False, device='mps:0')
+7.99910831451416
+tensor(False, device='mps:0')
+8.624957084655762
+tensor(False, device='mps:0')
+8.378232955932617
+tensor(False, device='mps:0')
+7.87308406829834
+tensor(False, device='mps:0')
+8.339259147644043
+tensor(False, device='mps:0')
+7.875007152557373
+tensor(False, device='mps:0')
+7.8350830078125
+tensor(False, device='mps:0')
+8.23657512664795
+tensor(False, device='mps:0')
+8.146066665649414
+tensor(False, device='mps:0')
+8.253868103027344
+tensor(False, device='mps:0')
+7.702574729919434
+tensor(False, device='mps:0')
+8.763558387756348
+tensor(False, device='mps:0')
+8.404520988464355
+tensor(False, device='mps:0')
+
+ 67%|████████████████████████████              | 78/117 [00:05<00:02, 13.70it/s]
+tensor(False, device='mps:0')
+7.701339244842529
+tensor(False, device='mps:0')
+8.515825271606445
+tensor(False, device='mps:0')
+8.556201934814453
+tensor(False, device='mps:0')
+7.959486961364746
+tensor(False, device='mps:0')
+8.366540908813477
+tensor(False, device='mps:0')
+7.639880180358887
+tensor(False, device='mps:0')
+8.301074981689453
+tensor(False, device='mps:0')
+7.680049419403076
+tensor(False, device='mps:0')
+8.092106819152832
+tensor(False, device='mps:0')
+7.7194414138793945
+tensor(False, device='mps:0')
+7.582032680511475
+tensor(False, device='mps:0')
+8.182262420654297
+tensor(False, device='mps:0')
+8.193876266479492
+tensor(False, device='mps:0')
+8.229555130004883
+tensor(False, device='mps:0')
+
+ 79%|█████████████████████████████████         | 92/117 [00:08<00:02,  9.55it/s]
+tensor(False, device='mps:0')
+8.497438430786133
+tensor(False, device='mps:0')
+8.230901718139648
+tensor(False, device='mps:0')
+7.989917278289795
+tensor(False, device='mps:0')
+7.479715347290039
+tensor(False, device='mps:0')
+7.757545471191406
+tensor(False, device='mps:0')
+8.993412017822266
+tensor(False, device='mps:0')
+7.919282913208008
+tensor(False, device='mps:0')
+8.483983993530273
+tensor(False, device='mps:0')
+7.866604328155518
+tensor(False, device='mps:0')
+7.909980773925781
+tensor(False, device='mps:0')
+7.773529529571533
+tensor(False, device='mps:0')
+7.932513236999512
+tensor(False, device='mps:0')
+8.436507225036621
+tensor(False, device='mps:0')
+8.523712158203125
+tensor(False, device='mps:0')
+7.500324726104736
+tensor(False, device='mps:0')
+7.946401596069336
+tensor(False, device='mps:0')
+8.342309951782227
+tensor(False, device='mps:0')
+8.47433853149414
+tensor(False, device='mps:0')
+8.630780220031738
+tensor(False, device='mps:0')
+8.31572437286377
+tensor(False, device='mps:0')
+7.959438800811768
+tensor(False, device='mps:0')
+7.800448894500732
+tensor(False, device='mps:0')
+8.22658920288086
+tensor(False, device='mps:0')
+8.261407852172852
+tensor(False, device='mps:0')
+8.016504287719727
+tensor(False, device='mps:0')
+7.933046340942383
+tensor(False, device='mps:0')
+8.76213264465332
+tensor(False, device='mps:0')
+7.925607204437256
+tensor(False, device='mps:0')
+7.801474571228027
+tensor(False, device='mps:0')
+7.861513137817383
+tensor(False, device='mps:0')
+8.13946533203125
+tensor(False, device='mps:0')
+7.839334487915039
+tensor(False, device='mps:0')
+7.647812843322754
+tensor(False, device='mps:0')
+ 56%|█████████████████████████                    | 5/9 [00:37<00:30,  7.66s/it]
+ 10%|████▎                                     | 12/117 [00:00<00:04, 23.89it/s]
+tensor(False, device='mps:0')
+8.547856330871582
+tensor(False, device='mps:0')
+8.135565757751465
+tensor(False, device='mps:0')
+8.168390274047852
+tensor(False, device='mps:0')
+8.381991386413574
+tensor(False, device='mps:0')
+8.266109466552734
+tensor(False, device='mps:0')
+7.613620758056641
+tensor(False, device='mps:0')
+7.910498142242432
+tensor(False, device='mps:0')
+8.14566421508789
+tensor(False, device='mps:0')
+7.9749298095703125
+tensor(False, device='mps:0')
+8.708747863769531
+tensor(False, device='mps:0')
+8.061779975891113
+tensor(False, device='mps:0')
+7.763458728790283
+tensor(False, device='mps:0')
+8.519842147827148
+tensor(False, device='mps:0')
+8.248826026916504
+tensor(False, device='mps:0')
+7.277928829193115
+tensor(False, device='mps:0')
+8.40859317779541
+tensor(False, device='mps:0')
+8.195489883422852
+tensor(False, device='mps:0')
+7.577434539794922
+tensor(False, device='mps:0')
+8.271032333374023
+tensor(False, device='mps:0')
+8.056682586669922
+tensor(False, device='mps:0')
+8.459280014038086
+tensor(False, device='mps:0')
+7.708559036254883
+tensor(False, device='mps:0')
+7.784886837005615
+tensor(False, device='mps:0')
+8.59876537322998
+tensor(False, device='mps:0')
+8.235190391540527
+tensor(False, device='mps:0')
+7.593098163604736
+tensor(False, device='mps:0')
+8.242456436157227
+tensor(False, device='mps:0')
+8.179555892944336
+tensor(False, device='mps:0')
+8.516252517700195
+tensor(False, device='mps:0')
+8.35216236114502
+tensor(False, device='mps:0')
+7.833019256591797
+tensor(False, device='mps:0')
+8.065409660339355
+tensor(False, device='mps:0')
+7.912098407745361
+tensor(False, device='mps:0')
+8.997786521911621
+tensor(False, device='mps:0')
+8.89354419708252
+tensor(False, device='mps:0')
+8.110221862792969
+tensor(False, device='mps:0')
+7.772034168243408
+tensor(False, device='mps:0')
+8.386942863464355
+tensor(False, device='mps:0')
+
+ 49%|████████████████████▍                     | 57/117 [00:02<00:02, 23.73it/s]
+tensor(False, device='mps:0')
+7.50892448425293
+tensor(False, device='mps:0')
+7.961816310882568
+tensor(False, device='mps:0')
+8.79781723022461
+tensor(False, device='mps:0')
+8.118325233459473
+tensor(False, device='mps:0')
+7.326286315917969
+tensor(False, device='mps:0')
+7.493098258972168
+tensor(False, device='mps:0')
+8.23205280303955
+tensor(False, device='mps:0')
+7.978212833404541
+tensor(False, device='mps:0')
+7.842232704162598
+tensor(False, device='mps:0')
+8.433350563049316
+tensor(False, device='mps:0')
+8.072720527648926
+tensor(False, device='mps:0')
+8.452096939086914
+tensor(False, device='mps:0')
+7.504114151000977
+tensor(False, device='mps:0')
+7.860158443450928
+tensor(False, device='mps:0')
+7.745842933654785
+tensor(False, device='mps:0')
+7.876276016235352
+tensor(False, device='mps:0')
+8.352828979492188
+tensor(False, device='mps:0')
+8.634264945983887
+tensor(False, device='mps:0')
+7.749429225921631
+tensor(False, device='mps:0')
+8.300201416015625
+tensor(False, device='mps:0')
+8.304977416992188
+tensor(False, device='mps:0')
+8.028928756713867
+tensor(False, device='mps:0')
+7.99578857421875
+tensor(False, device='mps:0')
+8.022198677062988
+tensor(False, device='mps:0')
+8.733211517333984
+tensor(False, device='mps:0')
+
+ 54%|██████████████████████▌                   | 63/117 [00:03<00:03, 17.13it/s]
+tensor(False, device='mps:0')
+8.241512298583984
+tensor(False, device='mps:0')
+7.4079694747924805
+tensor(False, device='mps:0')
+
+ 62%|██████████████████████████▏               | 73/117 [00:06<00:07,  5.91it/s]
+tensor(False, device='mps:0')
+8.272078514099121
+tensor(False, device='mps:0')
+7.370749473571777
+tensor(False, device='mps:0')
+8.563566207885742
+tensor(False, device='mps:0')
+8.135427474975586
+tensor(False, device='mps:0')
+7.722177505493164
+tensor(False, device='mps:0')
+7.481797218322754
+tensor(False, device='mps:0')
+8.360296249389648
+tensor(False, device='mps:0')
+8.575040817260742
+tensor(False, device='mps:0')
+8.046245574951172
+tensor(False, device='mps:0')
+8.0614652633667
+tensor(False, device='mps:0')
+7.805423736572266
+tensor(False, device='mps:0')
+8.15007209777832
+tensor(False, device='mps:0')
+8.300176620483398
+tensor(False, device='mps:0')
+7.651587963104248
+tensor(False, device='mps:0')
+8.098240852355957
+tensor(False, device='mps:0')
+
+ 78%|████████████████████████████████▋         | 91/117 [00:08<00:03,  8.32it/s]
+tensor(False, device='mps:0')
+7.58741569519043
+tensor(False, device='mps:0')
+7.695464134216309
+tensor(False, device='mps:0')
+8.337400436401367
+tensor(False, device='mps:0')
+8.002458572387695
+tensor(False, device='mps:0')
+7.925564765930176
+tensor(False, device='mps:0')
+8.511371612548828
+tensor(False, device='mps:0')
+8.375863075256348
+tensor(False, device='mps:0')
+7.3757219314575195
+tensor(False, device='mps:0')
+7.744124412536621
+tensor(False, device='mps:0')
+7.3335113525390625
+tensor(False, device='mps:0')
+8.000510215759277
+tensor(False, device='mps:0')
+8.314704895019531
+tensor(False, device='mps:0')
+8.333179473876953
+tensor(False, device='mps:0')
+8.13593864440918
+tensor(False, device='mps:0')
+
+ 91%|█████████████████████████████████████▍   | 107/117 [00:10<00:01,  9.36it/s]
+tensor(False, device='mps:0')
+8.09305191040039
+tensor(False, device='mps:0')
+7.608046531677246
+tensor(False, device='mps:0')
+7.709787845611572
+tensor(False, device='mps:0')
+8.685296058654785
+tensor(False, device='mps:0')
+8.204163551330566
+tensor(False, device='mps:0')
+8.835460662841797
+tensor(False, device='mps:0')
+7.782214164733887
+tensor(False, device='mps:0')
+8.403938293457031
+tensor(False, device='mps:0')
+8.330951690673828
+tensor(False, device='mps:0')
+7.685446739196777
+tensor(False, device='mps:0')
+7.735782623291016
+tensor(False, device='mps:0')
+7.627646446228027
+tensor(False, device='mps:0')
+8.054275512695312
+tensor(False, device='mps:0')
+7.640756607055664
+tensor(False, device='mps:0')
+8.36739444732666
+tensor(False, device='mps:0')
+ 67%|██████████████████████████████               | 6/9 [00:49<00:27,  9.23s/it]
+  7%|██▉                                        | 8/117 [00:00<00:07, 15.08it/s]
+tensor(False, device='mps:0')
+8.002019882202148
+tensor(False, device='mps:0')
+8.028816223144531
+tensor(False, device='mps:0')
+7.501730918884277
+tensor(False, device='mps:0')
+8.05886459350586
+tensor(False, device='mps:0')
+8.06353759765625
+tensor(False, device='mps:0')
+7.588863372802734
+tensor(False, device='mps:0')
+8.049520492553711
+tensor(False, device='mps:0')
+8.084480285644531
+tensor(False, device='mps:0')
+8.481040000915527
+tensor(False, device='mps:0')
+8.645451545715332
+tensor(False, device='mps:0')
+8.138328552246094
+tensor(False, device='mps:0')
+8.112347602844238
+tensor(False, device='mps:0')
+8.40964126586914
+tensor(False, device='mps:0')
+8.03919506072998
+tensor(False, device='mps:0')
+7.719409465789795
+tensor(False, device='mps:0')
+8.084421157836914
+tensor(False, device='mps:0')
+7.8880228996276855
+tensor(False, device='mps:0')
+8.208486557006836
+tensor(False, device='mps:0')
+7.947597980499268
+tensor(False, device='mps:0')
+8.233931541442871
+tensor(False, device='mps:0')
+7.9946370124816895
+tensor(False, device='mps:0')
+8.269583702087402
+tensor(False, device='mps:0')
+8.33101749420166
+tensor(False, device='mps:0')
+8.228899955749512
+tensor(False, device='mps:0')
+7.414753437042236
+tensor(False, device='mps:0')
+
+ 31%|████████████▉                             | 36/117 [00:02<00:04, 16.23it/s]
+tensor(False, device='mps:0')
+7.222292423248291
+tensor(False, device='mps:0')
+8.18970012664795
+tensor(False, device='mps:0')
+8.672639846801758
+tensor(False, device='mps:0')
+8.518529891967773
+tensor(False, device='mps:0')
+7.627554893493652
+tensor(False, device='mps:0')
+7.5932393074035645
+tensor(False, device='mps:0')
+8.238383293151855
+tensor(False, device='mps:0')
+7.893119812011719
+tensor(False, device='mps:0')
+8.104119300842285
+tensor(False, device='mps:0')
+7.793487071990967
+tensor(False, device='mps:0')
+8.685147285461426
+tensor(False, device='mps:0')
+8.098349571228027
+tensor(False, device='mps:0')
+8.107338905334473
+tensor(False, device='mps:0')
+7.738867282867432
+tensor(False, device='mps:0')
+8.430399894714355
+tensor(False, device='mps:0')
+7.995297431945801
+tensor(False, device='mps:0')
+8.396102905273438
+tensor(False, device='mps:0')
+8.496068954467773
+tensor(False, device='mps:0')
+7.837445259094238
+tensor(False, device='mps:0')
+8.77352523803711
+tensor(False, device='mps:0')
+7.783938407897949
+tensor(False, device='mps:0')
+8.043054580688477
+tensor(False, device='mps:0')
+8.504179954528809
+tensor(False, device='mps:0')
+
+ 44%|██████████████████▋                       | 52/117 [00:04<00:08,  7.48it/s]
+tensor(False, device='mps:0')
+8.236897468566895
+tensor(False, device='mps:0')
+7.948390483856201
+tensor(False, device='mps:0')
+8.290675163269043
+tensor(False, device='mps:0')
+8.23151683807373
+tensor(False, device='mps:0')
+8.426994323730469
+tensor(False, device='mps:0')
+8.23883056640625
+tensor(False, device='mps:0')
+8.763895988464355
+tensor(False, device='mps:0')
+7.86126184463501
+tensor(False, device='mps:0')
+8.181632995605469
+tensor(False, device='mps:0')
+8.141824722290039
+tensor(False, device='mps:0')
+8.302379608154297
+tensor(False, device='mps:0')
+7.589194297790527
+tensor(False, device='mps:0')
+7.301076889038086
+tensor(False, device='mps:0')
+7.988602638244629
+tensor(False, device='mps:0')
+7.85139274597168
+tensor(False, device='mps:0')
+8.265172004699707
+tensor(False, device='mps:0')
+8.062955856323242
+tensor(False, device='mps:0')
+8.223684310913086
+tensor(False, device='mps:0')
+7.889479160308838
+tensor(False, device='mps:0')
+
+ 68%|████████████████████████████▎             | 79/117 [00:06<00:02, 14.62it/s]
+tensor(False, device='mps:0')
+8.245949745178223
+tensor(False, device='mps:0')
+8.178671836853027
+tensor(False, device='mps:0')
+8.12296199798584
+tensor(False, device='mps:0')
+8.350011825561523
+tensor(False, device='mps:0')
+8.504806518554688
+tensor(False, device='mps:0')
+7.97935676574707
+tensor(False, device='mps:0')
+7.664649963378906
+tensor(False, device='mps:0')
+7.777825355529785
+tensor(False, device='mps:0')
+7.970166206359863
+tensor(False, device='mps:0')
+8.180676460266113
+tensor(False, device='mps:0')
+7.919166088104248
+tensor(False, device='mps:0')
+7.796359062194824
+tensor(False, device='mps:0')
+7.939915657043457
+tensor(False, device='mps:0')
+8.734416961669922
+tensor(False, device='mps:0')
+7.884361267089844
+tensor(False, device='mps:0')
+7.537971496582031
+tensor(False, device='mps:0')
+7.785400390625
+tensor(False, device='mps:0')
+8.324173927307129
+tensor(False, device='mps:0')
+7.85904598236084
+tensor(False, device='mps:0')
+7.372459888458252
+tensor(False, device='mps:0')
+7.813551425933838
+tensor(False, device='mps:0')
+7.3937087059021
+tensor(False, device='mps:0')
+7.852198123931885
+tensor(False, device='mps:0')
+8.700879096984863
+tensor(False, device='mps:0')
+8.831531524658203
+tensor(False, device='mps:0')
+7.933757781982422
+tensor(False, device='mps:0')
+8.069646835327148
+tensor(False, device='mps:0')
+7.68841552734375
+tensor(False, device='mps:0')
+8.662981033325195
+tensor(False, device='mps:0')
+
+ 92%|█████████████████████████████████████▊   | 108/117 [00:08<00:00, 14.15it/s]
+tensor(False, device='mps:0')
+7.959530830383301
+tensor(False, device='mps:0')
+7.92694091796875
+tensor(False, device='mps:0')
+8.018621444702148
+tensor(False, device='mps:0')
+8.31930923461914
+tensor(False, device='mps:0')
+8.115585327148438
+tensor(False, device='mps:0')
+8.997255325317383
+tensor(False, device='mps:0')
+8.161972045898438
+tensor(False, device='mps:0')
+8.501021385192871
+tensor(False, device='mps:0')
+7.783810615539551
+tensor(False, device='mps:0')
+7.914734840393066
+tensor(False, device='mps:0')
+7.418189525604248
+tensor(False, device='mps:0')
+7.635765075683594
+tensor(False, device='mps:0')
+8.408151626586914
+tensor(False, device='mps:0')
+7.703521251678467
+tensor(False, device='mps:0')
+7.215760707855225
+tensor(False, device='mps:0')
+7.10084342956543
+tensor(False, device='mps:0')
+7.685945987701416
+tensor(False, device='mps:0')
+8.722929000854492
+tensor(False, device='mps:0')
+8.135095596313477
+tensor(False, device='mps:0')
+7.876675605773926
+tensor(False, device='mps:0')
+8.111927032470703
+tensor(False, device='mps:0')
+8.101125717163086
+tensor(False, device='mps:0')
+7.871860504150391
+tensor(False, device='mps:0')
+8.399850845336914
+tensor(False, device='mps:0')
+8.026837348937988
+tensor(False, device='mps:0')
+8.420829772949219
+tensor(False, device='mps:0')
+9.325398445129395
+tensor(False, device='mps:0')
+ 78%|███████████████████████████████████          | 7/9 [00:59<00:18,  9.29s/it]
+ 12%|█████                                     | 14/117 [00:01<00:10,  9.60it/s]
+tensor(False, device='mps:0')
+8.215986251831055
+tensor(False, device='mps:0')
+8.479043960571289
+tensor(False, device='mps:0')
+8.105579376220703
+tensor(False, device='mps:0')
+8.024771690368652
+tensor(False, device='mps:0')
+7.928068161010742
+tensor(False, device='mps:0')
+7.895837783813477
+tensor(False, device='mps:0')
+7.839883804321289
+tensor(False, device='mps:0')
+8.315924644470215
+tensor(False, device='mps:0')
+8.30563735961914
+tensor(False, device='mps:0')
+8.304157257080078
+tensor(False, device='mps:0')
+7.85887336730957
+tensor(False, device='mps:0')
+9.000045776367188
+tensor(False, device='mps:0')
+7.8406982421875
+tensor(False, device='mps:0')
+8.588759422302246
+tensor(False, device='mps:0')
+7.601691722869873
+tensor(False, device='mps:0')
+8.235998153686523
+tensor(False, device='mps:0')
+8.14030933380127
+tensor(False, device='mps:0')
+7.975100994110107
+tensor(False, device='mps:0')
+
+ 26%|██████████▊                               | 30/117 [00:02<00:07, 11.92it/s]
+tensor(False, device='mps:0')
+8.765949249267578
+tensor(False, device='mps:0')
+8.138957977294922
+tensor(False, device='mps:0')
+7.095463752746582
+tensor(False, device='mps:0')
+7.954128742218018
+tensor(False, device='mps:0')
+8.161009788513184
+tensor(False, device='mps:0')
+8.079217910766602
+tensor(False, device='mps:0')
+8.59703254699707
+tensor(False, device='mps:0')
+7.549346923828125
+tensor(False, device='mps:0')
+8.071298599243164
+tensor(False, device='mps:0')
+8.032951354980469
+tensor(False, device='mps:0')
+7.687311172485352
+tensor(False, device='mps:0')
+7.631403923034668
+tensor(False, device='mps:0')
+8.235757827758789
+tensor(False, device='mps:0')
+8.041875839233398
+tensor(False, device='mps:0')
+7.858135223388672
+tensor(False, device='mps:0')
+8.374856948852539
+tensor(False, device='mps:0')
+8.379964828491211
+tensor(False, device='mps:0')
+8.224963188171387
+tensor(False, device='mps:0')
+7.802328109741211
+tensor(False, device='mps:0')
+
+ 48%|████████████████████                      | 56/117 [00:05<00:05, 10.79it/s]
+tensor(False, device='mps:0')
+8.105597496032715
+tensor(False, device='mps:0')
+7.893784523010254
+tensor(False, device='mps:0')
+7.540299892425537
+tensor(False, device='mps:0')
+7.734287261962891
+tensor(False, device='mps:0')
+8.377647399902344
+tensor(False, device='mps:0')
+8.208338737487793
+tensor(False, device='mps:0')
+8.022988319396973
+tensor(False, device='mps:0')
+8.314027786254883
+tensor(False, device='mps:0')
+8.765954971313477
+tensor(False, device='mps:0')
+7.974640846252441
+tensor(False, device='mps:0')
+7.521145820617676
+tensor(False, device='mps:0')
+7.879374980926514
+tensor(False, device='mps:0')
+8.597654342651367
+tensor(False, device='mps:0')
+8.620234489440918
+tensor(False, device='mps:0')
+8.570837020874023
+tensor(False, device='mps:0')
+7.832085609436035
+tensor(False, device='mps:0')
+7.389267921447754
+tensor(False, device='mps:0')
+7.781511306762695
+tensor(False, device='mps:0')
+8.212066650390625
+tensor(False, device='mps:0')
+7.873618125915527
+tensor(False, device='mps:0')
+7.901956081390381
+tensor(False, device='mps:0')
+7.53669548034668
+tensor(False, device='mps:0')
+8.223980903625488
+tensor(False, device='mps:0')
+8.31521224975586
+tensor(False, device='mps:0')
+8.23779296875
+tensor(False, device='mps:0')
+
+ 68%|████████████████████████████▋             | 80/117 [00:07<00:02, 14.29it/s]
+tensor(False, device='mps:0')
+8.462390899658203
+tensor(False, device='mps:0')
+8.264476776123047
+tensor(False, device='mps:0')
+8.001617431640625
+tensor(False, device='mps:0')
+8.568357467651367
+tensor(False, device='mps:0')
+8.181781768798828
+tensor(False, device='mps:0')
+8.095114707946777
+tensor(False, device='mps:0')
+9.014625549316406
+tensor(False, device='mps:0')
+8.02374267578125
+tensor(False, device='mps:0')
+6.8526740074157715
+tensor(False, device='mps:0')
+8.630897521972656
+tensor(False, device='mps:0')
+
+ 79%|█████████████████████████████████▍        | 93/117 [00:09<00:02,  9.47it/s]
+tensor(False, device='mps:0')
+7.748485565185547
+tensor(False, device='mps:0')
+7.849817276000977
+tensor(False, device='mps:0')
+7.533609390258789
+tensor(False, device='mps:0')
+8.207317352294922
+tensor(False, device='mps:0')
+8.016911506652832
+tensor(False, device='mps:0')
+7.803656101226807
+tensor(False, device='mps:0')
+7.588522911071777
+tensor(False, device='mps:0')
+8.207759857177734
+tensor(False, device='mps:0')
+7.760520935058594
+tensor(False, device='mps:0')
+8.118907928466797
+tensor(False, device='mps:0')
+7.94361686706543
+tensor(False, device='mps:0')
+7.94755220413208
+tensor(False, device='mps:0')
+8.375406265258789
+tensor(False, device='mps:0')
+7.663097381591797
+tensor(False, device='mps:0')
+8.255218505859375
+tensor(False, device='mps:0')
+7.734443187713623
+tensor(False, device='mps:0')
+7.978931427001953
+tensor(False, device='mps:0')
+7.955118656158447
+tensor(False, device='mps:0')
+8.205913543701172
+tensor(False, device='mps:0')
+8.383417129516602
+tensor(False, device='mps:0')
+
+ 97%|███████████████████████████████████████▌ | 113/117 [00:11<00:00,  9.82it/s]
+tensor(False, device='mps:0')
+8.249727249145508
+tensor(False, device='mps:0')
+7.739212989807129
+tensor(False, device='mps:0')
+8.46567440032959
+tensor(False, device='mps:0')
+8.643268585205078
+tensor(False, device='mps:0')
+7.367447376251221
+tensor(False, device='mps:0')
+7.844954967498779
+tensor(False, device='mps:0')
+7.937828063964844
+tensor(False, device='mps:0')
+7.424801349639893
+tensor(False, device='mps:0')
+7.710021018981934
+tensor(False, device='mps:0')
+7.64402437210083
+tensor(False, device='mps:0')
+8.727006912231445
+tensor(False, device='mps:0')
+8.060514450073242
+tensor(False, device='mps:0')
+7.918065071105957
+tensor(False, device='mps:0')
+8.198955535888672
+tensor(False, device='mps:0')
+8.298064231872559
+tensor(False, device='mps:0')
+7.967254161834717
+tensor(False, device='mps:0')
+ 89%|████████████████████████████████████████     | 8/9 [01:10<00:10, 10.08s/it]
+ 10%|████▎                                     | 12/117 [00:01<00:13,  8.05it/s]
+tensor(False, device='mps:0')
+8.209747314453125
+tensor(False, device='mps:0')
+8.073019027709961
+tensor(False, device='mps:0')
+8.116682052612305
+tensor(False, device='mps:0')
+8.10736083984375
+tensor(False, device='mps:0')
+8.107719421386719
+tensor(False, device='mps:0')
+8.001330375671387
+tensor(False, device='mps:0')
+8.206372261047363
+tensor(False, device='mps:0')
+7.7230916023254395
+tensor(False, device='mps:0')
+7.643304347991943
+tensor(False, device='mps:0')
+7.301790237426758
+tensor(False, device='mps:0')
+7.433004379272461
+tensor(False, device='mps:0')
+
+ 22%|█████████▎                                | 26/117 [00:03<00:09,  9.77it/s]
+tensor(False, device='mps:0')
+8.420232772827148
+tensor(False, device='mps:0')
+8.037822723388672
+tensor(False, device='mps:0')
+7.89561128616333
+tensor(False, device='mps:0')
+8.203290939331055
+tensor(False, device='mps:0')
+8.844124794006348
+tensor(False, device='mps:0')
+8.459386825561523
+tensor(False, device='mps:0')
+8.502950668334961
+tensor(False, device='mps:0')
+7.635202407836914
+tensor(False, device='mps:0')
+8.289234161376953
+tensor(False, device='mps:0')
+8.255353927612305
+tensor(False, device='mps:0')
+7.770787239074707
+tensor(False, device='mps:0')
+7.90692138671875
+tensor(False, device='mps:0')
+8.934852600097656
+tensor(False, device='mps:0')
+7.69609260559082
+tensor(False, device='mps:0')
+8.297527313232422
+tensor(False, device='mps:0')
+8.091377258300781
+tensor(False, device='mps:0')
+8.157145500183105
+tensor(False, device='mps:0')
+7.823625087738037
+tensor(False, device='mps:0')
+8.031229019165039
+tensor(False, device='mps:0')
+7.47900390625
+tensor(False, device='mps:0')
+8.430075645446777
+tensor(False, device='mps:0')
+
+ 39%|████████████████▌                         | 46/117 [00:05<00:07,  9.71it/s]
+tensor(False, device='mps:0')
+7.871315956115723
+tensor(False, device='mps:0')
+8.497796058654785
+tensor(False, device='mps:0')
+7.778900146484375
+tensor(False, device='mps:0')
+7.767916679382324
+tensor(False, device='mps:0')
+8.08257007598877
+tensor(False, device='mps:0')
+8.082647323608398
+tensor(False, device='mps:0')
+8.864681243896484
+tensor(False, device='mps:0')
+8.162601470947266
+tensor(False, device='mps:0')
+8.069090843200684
+tensor(False, device='mps:0')
+8.250121116638184
+tensor(False, device='mps:0')
+7.59931755065918
+tensor(False, device='mps:0')
+7.616810321807861
+tensor(False, device='mps:0')
+7.842253684997559
+tensor(False, device='mps:0')
+7.8899455070495605
+tensor(False, device='mps:0')
+7.74593448638916
+tensor(False, device='mps:0')
+7.853633880615234
+tensor(False, device='mps:0')
+8.374818801879883
+tensor(False, device='mps:0')
+8.793574333190918
+tensor(False, device='mps:0')
+7.034309387207031
+tensor(False, device='mps:0')
+7.480661869049072
+tensor(False, device='mps:0')
+7.772697448730469
+tensor(False, device='mps:0')
+8.449324607849121
+tensor(False, device='mps:0')
+8.643746376037598
+tensor(False, device='mps:0')
+
+100%|█████████████████████████████████████████████| 9/9 [01:18<00:00,  8.71s/it]
